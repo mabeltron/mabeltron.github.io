@@ -3,6 +3,7 @@ Title: Backing up your home with Crashplan
 Date: 2016-11-14 08:44
 Category: Tech
 Tags: backup, crashplan
+layout: post
 ---
 
 Backups are necessary today more than ever. You probably have a few gigs of photos on your phone, your music collection is digitised, you might have any amount of video content that you have *ahem* obtained from places, and all of it is liable to theft, disk failure or simple computer updates.

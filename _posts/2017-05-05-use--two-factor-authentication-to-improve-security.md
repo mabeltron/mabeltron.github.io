@@ -1,9 +1,10 @@
 ---
 title: Use two factor authentication to improve security
-date: 2016-12-29 23:55
+date: 2017-05-05 23:55
 category: security
 tags: passwords, 2fa
 status: published
+layout: post
 ---
 
 Too many people still trust their online life to massively insecure passwords. The name of your dog and its birthday, or a cleverly crafted dictionary word changed to a combination of numbers and letters just doesn't cut it any more. Dictionary attacks are pervasive and high powered. There are still huge numbers of websites and services that can be cracked by dictionary attacks, where scripts throw word combinations at common usernames such as root or Administrator, or increasingly collections of stolen email addresses and passwords from other places that have been used elsewhere.

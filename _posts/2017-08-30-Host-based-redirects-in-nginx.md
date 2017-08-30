@@ -3,6 +3,7 @@ Title: Host based redirects in nginx
 Date: 2016-11-08 07:57:13
 Category: Hints and Tips
 Tags: nginx, redirects
+layout: post
 ---
 I work with a server that we inherited from a managed server company who set their systems up with a fairly standard web serving architecture of [nginx][f11e5976] in front and [Apache httpd][1b8f3839] serving [PHP][aa77cd72] at the back. What is slightly odd is that in Nginx the hosts are all in a map to a docroot which is then served from a default server like this:
 
